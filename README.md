@@ -10,7 +10,7 @@ Controls system volume (increase/decrease) without touching the keyboard
 
 Works with any standard webcam
 
-🛠️ Technologies Used:
+🛠️ Technologies Used:  
 Python
 
 OpenCV
